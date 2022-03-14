@@ -1,1 +1,6 @@
-This pull request adds priyaughade2001 file to the _posts/0000-01-02-priyaughade2001.md.
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
